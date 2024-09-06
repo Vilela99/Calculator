@@ -1,6 +1,6 @@
 # Calculator
 
-This project is a functional calculator developed in [language or technology used, e.g., Python, JavaScript]. The calculator performs basic operations and is continually being improved to add new features.
+This project is a functional calculator developed in C#. The calculator performs basic operations and is continually being improved to add new features.
 
 ## Features
 
